@@ -1,7 +1,7 @@
 {
-  "name": "Calculate Client Security Hash",
+  "name": "Generate Yearly Report",
   "projectId": "651a00f0-49bb-4c1a-8916-aed8d9ae15b1",
-  "description": "Calculate Client Security Hash ",
+  "description": "Generate Yearly Report",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.0-preview]",
